@@ -8,6 +8,10 @@
 
 ![SeekGain](https://www.seekgain.cn/logo.png)
 
+![SeekGain 首页](docs/images/seekgain-home.png)
+![SeekGain 数据中心](docs/images/seekgain-data-center.png)
+![SeekGain 市场资金流与估值分位](docs/images/seekgain-market-flow.png)
+
 ### 核心功能
 
 **可视化策略工作流编排**
